@@ -1,13 +1,10 @@
-# 👋 Hey, I'm Abdul Basit
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20,%20I'm%20Abdul%20Basit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Java%20%7C%20AI%2FML%20Explorer&descAlignY=55&descSize=18"/>
+</p>
 
-### `Software Engineering Student` · `Java & OOP Learner` · `AI/ML Explorer`
-
-> **Building today. Learning every day. Engineering what comes next.**
-
-I'm a **BS Software Engineering student at the University of Lahore** focused on building strong programming fundamentals and gradually moving toward **Artificial Intelligence, Machine Learning, and modern software engineering**.
-
-I started with **C++**, I'm currently deepening my understanding of **Java & Object-Oriented Programming**, and I'm exploring **Python and AI/ML** to turn ideas into practical software.
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+today.+Learning+every+day.;Java+%7C+Python+%7C+C%2B%2B+%7C+AI%2FML;Turning+ideas+into+real+software.;Future+Software+Engineer+%7C+AI%2FML+Explorer" />
+</p>
 ---
 
 ## 🧠 What I'm Working On
