@@ -1,10 +1,35 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20,%20I'm%20Abdul%20Basit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Java%20%7C%20AI%2FML%20Explorer&descAlignY=55&descSize=18"/>
+<div align="center">
+
+<!-- 3D MAIN HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080808,25:1C1208,50:3A1F0B,75:5A2A0C,100:2B1608&height=320&section=header&text=Hi%2C%20I'm%20Abdul%20Basit&fontSize=58&fontColor=FFF7ED&fontAlignY=36&stroke=F97316&strokeWidth=2&animation=twinkling"/>
+
+<br>
+
+<!-- IDENTITY -->
+<p>
+  <strong style="font-size:22px;">
+    Software Engineering Student
+  </strong>
+  <br>
+  <span style="color:#FDBA74;">
+    Building ideas into real-world systems.
+  </span>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+today.+Learning+every+day.;Java+%7C+Python+%7C+C%2B%2B+%7C+AI%2FML;Turning+ideas+into+real+software.;Future+Software+Engineer+%7C+AI%2FML+Explorer" />
-</p>
+<!-- DEVELOPER TYPING EFFECT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=700&color=FDBA74&center=true&vCenter=true&width=900&height=50&lines=Software+Engineering+Student;Building+%26+Learning;Turning+Ideas+Into+Systems;Creating+Real-World+Solutions;Engineering+My+Next+Version"/>
+
+<br>
+
+<!-- TECHNOLOGIES -->
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,git,github,vscode&theme=dark"/>
+
+<br><br>
+
+<!-- 3D DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=12&section=header&color=0:F97316,50:FB923C,100:FBBF24"/>
+
+</div>
 ---
 
 ## 🧠 What I'm Working On
