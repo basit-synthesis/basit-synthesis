@@ -194,13 +194,6 @@ I want to understand **how software actually works** — from writing the first 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basit-synthesis&layout=compact&hide_border=true" height="165"/>
 </p>
 
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</p>
 
 ---
 
