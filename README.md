@@ -1,216 +1,220 @@
+<!-- Abdul Basit | GitHub Profile README -->
+
 <div align="center">
 
-<!-- 3D MAIN HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080808,25:1C1208,50:3A1F0B,75:5A2A0C,100:2B1608&height=320&section=header&text=Hi%2C%20I'm%20Abdul%20Basit&fontSize=58&fontColor=FFF7ED&fontAlignY=36&stroke=F97316&strokeWidth=2&animation=twinkling"/>
+<!-- ANIMATED NEURAL NETWORK HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,25:111B4D,55:312E81,80:075985,100:020617&text=ABDUL%20BASIT&fontSize=68&fontColor=FFFFFF&fontAlignY=40&desc=BUILDING%20INTELLIGENT%20SYSTEMS&descSize=17&descAlignY=62&animation=twinkling&stroke=38BDF8&strokeWidth=1" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Aspiring+AI%2FML+Engineer;Exploring+AI+Agents+%26+LLMs;Turning+Ideas+Into+Real+Software" alt="Animated typing introduction" />
 
-<!-- IDENTITY -->
-<p>
-  <strong style="font-size:22px;">
-    Software Engineering Student
-  </strong>
-  <br>
-  <span style="color:#FDBA74;">
-    Building ideas into real-world systems.
-  </span>
-</p>
+<br/>
 
-<!-- DEVELOPER TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=700&color=FDBA74&center=true&vCenter=true&width=900&height=50&lines=Software+Engineering+Student;Building+%26+Learning;Turning+Ideas+Into+Systems;Creating+Real-World+Solutions;Engineering+My+Next+Version"/>
+<a href="https://github.com/basit-synthesis">
+  <img src="https://img.shields.io/badge/GitHub-basit--synthesis-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br>
+<a href="https://www.linkedin.com/in/abdul-basit-24a04036b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<!-- TECHNOLOGIES -->
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,git,github,vscode&theme=dark"/>
-
-<br><br>
-
-<!-- 3D DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=12&section=header&color=0:F97316,50:FB923C,100:FBBF24"/>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-312E81?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Always%20Learning-0F766E?style=for-the-badge&logo=githubsponsors&logoColor=white" />
 
 </div>
+
 ---
 
-## 🧠 What I'm Working On
+## `01 / WHO AM I`
 
-```text
-Java & OOP             █████████░░  Learning
-C++ Fundamentals       █████████░░  Comfortable
-Python                 ██████░░░░░  Learning
-Git & GitHub            ███████░░░░  Improving
-Data Structures         █████░░░░░░  Building foundations
-AI / Machine Learning   ████░░░░░░░  Exploring
+```python
+class AbdulBasit:
+    def __init__(self):
+        self.role = "Software Engineering Student"
+        self.university = "University of Lahore"
+        self.focus = ["Artificial Intelligence", "Machine Learning"]
+        self.interests = [
+            "AI Agents",
+            "Large Language Models",
+            "Intelligent Automation",
+            "Software Development"
+        ]
+
+    def ambition(self):
+        return "Build intelligent solutions that solve real problems."
+
+
+me = AbdulBasit()
 ```
 
----
+I'm a Software Engineering student passionate about understanding how technology works and building software that makes a difference.
 
-## ⚡ Tech Stack
+My current direction is **Artificial Intelligence and Machine Learning**. I'm strengthening my software engineering foundations while exploring intelligent systems, AI agents, and modern AI technologies.
 
-### Languages
-
-`C++` · `Java` · `Python` · `JavaScript`
-
-### Core Concepts
-
-`OOP` · `Data Structures` · `Algorithms` · `Problem Solving`
-
-### Tools
-
-`Git` · `GitHub` · `VS Code`
-
-### Exploring
-
-`Python for AI/ML` · `NumPy` · `Pandas` · `Machine Learning` · `APIs` · `Databases`
+I believe in learning by building, understanding concepts deeply, and turning ideas into practical projects.
 
 ---
 
-## 🚀 Featured Projects
+## `02 / THE AI LAB`
 
-> A collection of projects representing my progression from programming fundamentals to real-world software development.
+<div align="center">
 
-### 🧮 CGPA Maintainer
+### Exploring the future of intelligent systems
 
-A C++ console-based application designed to calculate and manage academic CGPA information.
+<img src="https://img.shields.io/badge/01-Machine%20Learning-172554?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/02-Generative%20AI-312E81?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/03-AI%20Agents-164E63?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/04-LLMs-3B0764?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
-**Focus:** C++ · Functions · Arrays · Structures · Problem Solving
+</div>
 
----
-
-### 🏥 Healthcare Management System
-
-A Java/OOP-focused software concept designed to manage healthcare-related information and workflows.
-
-**Focus:** Java · OOP · Database Concepts · Software Engineering
-
----
-
-### 🏪 Small Shop Smart Assistant
-
-A practical software idea aimed at helping small businesses manage products, sales, inventory, and everyday operations.
-
-**Focus:** Java · OOP · Database · Real-world Problem Solving
+| Research Area | What I'm Exploring |
+|:---|:---|
+| Machine Learning | Learning algorithms, model training, and predictions |
+| Generative AI | How AI models generate useful content |
+| AI Agents | Systems that reason, use tools, and perform tasks |
+| LLMs | Language models and their real-world applications |
+| Intelligent Automation | Building smarter software workflows |
 
 ---
 
-## 🧩 My Engineering Journey
+## `03 / TECH STACK`
 
-```text
-C++ Fundamentals
-       │
-       ▼
-Object-Oriented Programming
-       │
-       ▼
-Java + Data Structures
-       │
-       ▼
-Python + Data Analysis
-       │
-       ▼
-Machine Learning
-       │
-       ▼
-AI-Powered Applications
-       │
-       ▼
-Professional Software Engineering
-```
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" />
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea&theme=dark" />
+
+</div>
+
+**Currently working with:** Python, Java, C++, JavaScript, JavaFX, MySQL, OOP, Git and GitHub.
+
+**Learning direction:** Machine Learning, AI development, data handling, and intelligent application development.
 
 ---
 
-## 🎯 Current Goals
+## `04 / FEATURED PROJECTS`
 
-* 📚 Strengthen Java & Object-Oriented Programming
-* 🧠 Improve Data Structures & Algorithms
-* 🐍 Develop strong Python fundamentals
-* 🤖 Build a solid foundation in AI/ML
-* 🛠️ Build meaningful real-world projects
-* 🌐 Improve Git & GitHub workflow
-* 🧪 Learn software testing and better development practices
-* 🚀 Become internship-ready through practical experience
+<div align="center">
 
----
+### Things I've Built
 
-## 🔭 What I'm Exploring
+</div>
 
-```yaml
-Software Engineering:
-  - Object-Oriented Design
-  - Data Structures & Algorithms
-  - Databases
-  - APIs
-  - Software Architecture
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Artificial Intelligence:
-  - Python
-  - NumPy
-  - Pandas
-  - Machine Learning
-  - Model Training
-  - Model Evaluation
+<h3 align="center">💠 Expensoo</h3>
 
-Developer Workflow:
-  - Git
-  - GitHub
-  - VS Code
-  - Documentation
-  - Clean Code
-```
+<div align="center">
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaFX-5382A1?style=flat-square" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</div>
 
----
+A desktop expense management application designed to help users organize expenses and manage financial records.
 
-## 📈 2026 Learning Roadmap
+**Key concepts:**
+- Java OOP and application architecture
+- JavaFX graphical interface
+- MySQL database integration
+- Expense tracking and management
 
-* [x] Learn C++ fundamentals
-* [x] Build programming fundamentals
-* [x] Master Java OOP
-* [ ] Strengthen Data Structures & Algorithms
-* [ ] Improve Git/GitHub
-* [ ] Learn Python for data & AI
-* [ ] Learn NumPy & Pandas
-* [ ] Learn Machine Learning fundamentals
-* [ ] Build practical ML projects
-* [ ] Learn deployment fundamentals
-* [ ] Contribute to open source
-* [ ] Become internship-ready
+<sub>In development</sub>
 
----
+</td>
 
-## 💡 My Approach
+<td width="50%" valign="top">
 
-I don't want to simply collect programming languages.
+<h3 align="center">📊 CGPA Maintainer</h3>
 
-I want to understand **how software actually works** — from writing the first line of code to designing systems, working with data, building applications, and eventually integrating intelligent systems.
+<div align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Console%20Application-111827?style=flat-square" />
+</div>
 
-> **Learn → Build → Break → Debug → Improve → Repeat.**
+A C++ academic project designed to manage academic grades and calculate CGPA.
 
----
+**Key concepts:**
+- C++ programming fundamentals
+- Logical problem solving
+- Data handling
+- CGPA calculation
 
-## 📊 GitHub Activity
+<sub>Completed academic project</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basit-synthesis&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basit-synthesis&layout=compact&hide_border=true" height="165"/>
-</p>
+</td>
+</tr>
 
+<tr>
+<td colspan="2" valign="top">
 
----
+<h3 align="center">🎮 8086 Tic Tac Toe</h3>
 
-## 🌐 Let's Connect
+<div align="center">
+<img src="https://img.shields.io/badge/8086-Assembly-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Emulator-Console%20Game-0F766E?style=flat-square" />
+</div>
 
-<p align="left">
-  <a href="https://github.com/basit-synthesis">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+A classic Tic Tac Toe game developed using 8086 Assembly Language, focusing on low-level programming and game logic.
+
+**Key concepts:** Registers, memory, conditional jumps, input/output, and game-winning logic.
+
+<div align="center">
+<sub>Academic project · In progress</sub>
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <b>⚡ Building skills today. Building systems tomorrow.</b>
-</p>
 
-<p align="center">
-  <sub>© 2026 Abdul Basit · Software Engineering Student</sub>
-</p>
+
+## `07 / CONNECT`
+
+<div align="center">
+
+### Let's connect, learn, and build something meaningful.
+
+<a href="https://github.com/basit-synthesis">
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/abdul-basit-24a04036b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:mbasit3729@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:mbasit3729@gmail.com">
+  <img src="https://img.shields.io/badge/✉_EMAIL-SEND_ME_A_MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+</a>
+
+
+
+</div>
+
+<a href="https://github.com/basit-synthesis" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/abdul-basit-24a04036b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Building today. Learning every day. Creating for tomorrow.</sub>
+
+</div>
